@@ -7,7 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/himanshusoni30">
-    <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=Blog&logoColor=Orange" alt="Blog"
+    <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=Blog&logoColor=Orange" alt="Blog Badge"
+  </a>
+  <a href="https://www.github.com/himanshusoni30">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=White" alt="Github Badge"
   </a>
 </div>
   
