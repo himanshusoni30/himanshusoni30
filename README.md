@@ -52,7 +52,7 @@ I am a Software Testing Engineer from India.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusoni30&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanshusoni30&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-murex-seven-10.vercel.app?user=himanshusoni30&theme=onedark)](https://git.io/streak-stats)
 
 ---
 
@@ -62,6 +62,3 @@ I am a Software Testing Engineer from India.
   <a href="https://himanshusoni30.hashnode.dev/">
     <img src="https://avatars.githubusercontent.com/u/16342708?s=200&v=4" alt="Anveshak" width="40" height="40"/>
   </a>
-    
-
-
