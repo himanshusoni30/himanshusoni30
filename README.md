@@ -1,4 +1,4 @@
-<div id="header" align="center">
+koi<div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pneWp0NTc1MTR4amZ3OXRqYXZmY25uMTBrMWR0YnZjZXRwNmhkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200"/>
 </div>
 
@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/himanshusoni30">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/himanshusoni30">
+  <a href="https://himanshusoni30.hashnode.dev">
     <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=Blog&logoColor=orange" alt="Blog Badge"
   </a>
   <a href="https://www.github.com/himanshusoni30">
