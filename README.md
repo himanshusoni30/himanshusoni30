@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=Blog&logoColor=Orange" alt="Blog Badge"
   </a>
   <a href="https://www.github.com/himanshusoni30">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=White" alt="Github Badge"
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=black" alt="Github Badge"
   </a>
 </div>
   
